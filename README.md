@@ -126,17 +126,17 @@
 - Latest Version【推荐】
 
 ```
-wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/mack-a/v2ray-agent/master/install.sh" && chmod 700 /root/install.sh && /root/install.sh
+wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/Rabblit69967769/v2ray-agent/master/install.sh" && chmod 700 /root/install.sh && /root/install.sh
 ```
 
 - Stable-v2.4.16【无gRPC】
 ```
-wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/mack-a/v2ray-agent/stable_v2.4.16/install.sh" && chmod 700 /root/install.sh && /root/install.sh
+wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/Rabblit69967769/v2ray-agent/stable_v2.4.16/install.sh" && chmod 700 /root/install.sh && /root/install.sh
 ```
 
 # 示例图
 
-<img src="https://raw.githubusercontent.com/mack-a/v2ray-agent/master/fodder/install/install.jpg" width=700>
+<img src="https://raw.githubusercontent.com/Rabblit69967769/v2ray-agent/master/fodder/install/install.jpg" width=700>
 
 # 许可证
 
